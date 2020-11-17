@@ -25,10 +25,10 @@
     // console.log (result); */
 
 //4 пункт 
-    /* let a=10;
+    let a=10;
     let b=2;
     let c=5;
-    console.log (a+b+c); */
+    console.log (a+b+c); 
 	/* function sum(a,b,c) {
 		return a+b+c;
 	}
